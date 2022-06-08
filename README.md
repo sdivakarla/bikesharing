@@ -21,8 +21,8 @@ Other key findings include:
 ![NYCCitiHeatmap](https://user-images.githubusercontent.com/98054953/172507274-d5737830-c738-4d89-8aab-cdd2c7171ea3.png)
 4. The male riders had a stronger disparity between weekday hours for useage. For some reason, demand was less on Wednesday evenings compared to other weekday demands. Those who did not identify a gender did not have higher demand during rush hour. 
 ![NYC_Usage_By_Gender_By_Hourpng](https://user-images.githubusercontent.com/98054953/172507491-1e2a4671-4ede-469c-b76f-6b8a76af8426.png)
-5. The starting locations indicate there is geographic differences.  The highly populated city center had more starting trips than the less populated residential areas. 
-![StartingLocations](https://user-images.githubusercontent.com/98054953/172507298-9ee69d74-4647-43df-865a-dc5ca21c6caf.png)
+5. The starting locations indicate there is geographic differences.  The highly populated city center had more starting trips than the less populated residential areas. ![StartingLocationsRed](https://user-images.githubusercontent.com/98054953/172508187-401209fc-d9b1-4fb4-9123-b23509d0f90a.png)
+
 6. The single use riders did not have the same gender disparity as the subscriber.  
 ![NYC_Usage_By_User_Type](https://user-images.githubusercontent.com/98054953/172507322-c5436220-3748-4c1d-9141-a3b987c2cc73.png)
 # Summary
